@@ -80,7 +80,7 @@ public class Client
 			else {
 				System.out.println("enter correct number");
 			}
-				
+				sc.next();
 				break;
 			
 			case 4:
